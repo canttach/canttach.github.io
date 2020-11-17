@@ -3,6 +3,10 @@
 ---
 ### Education
 
+1. B.S. Chemical Engineering | B.S. Physiology & Neuroscience  UC San Diego, 2018
+2. M.Sc. Marine Biology, Scripps Institution of Oceanography, 2020
+3. Ph.D. Ocean Engineering, University of Rhode Island (in progress)
+
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -12,9 +16,7 @@
 
 ---
 ### Recent Projects
-
-
-- [Sample Presentation](http://bloose.github.io/pdf/sample_presentation.pdf)
+1. Simulating AUV relocating known regions of interest
 
 ---
 
