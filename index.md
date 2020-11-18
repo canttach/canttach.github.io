@@ -15,7 +15,7 @@
 ---
 ### Recent Projects
 1. Investigation of the Hierarchical Structure of *Chaetopterus* Tubes
-<img src="images/tube.png?raw=true"/>
+<img src="images/tube.jpg?raw=true"/>
 
 2. Simulating AUV relocating known regions of interest
 <img src="images/auv.png?raw=true"/>
