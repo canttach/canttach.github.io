@@ -3,7 +3,7 @@
 ---
 ### Education
 
-1. B.S. Chemical Engineering, UC San Diego, 2018
+1. B.S. Chemical Engineering, UC San Diego, 2018 <br>
    B.S. Physiology & Neuroscience, UC San Diego, 2018
 2. M.Sc. Marine Biology, Scripps Institution of Oceanography, 2020
 3. Ph.D. Ocean Engineering, University of Rhode Island (in progress)
@@ -14,7 +14,7 @@
 ---
 ### Recent Projects
 1. Investigation of the Hierarchical Structure of *Chaetopterus* Tubes
-<img src="images/tube.jpg?raw=true"/>
+<img src="images/tube.png?raw=true"/>
 
 2. Simulating AUV relocating known regions of interest
 <img src="images/auv.png?raw=true"/>
