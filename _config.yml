@@ -3,13 +3,13 @@ logo: "/images/surf.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Ph.D. Student in Ocean Engineering at the University of Rhode Island
   <br><br>
-  [URI Department of Ocean Engineering](https://web.uri.edu/engineering/about/ocean-engineering/)
+  <a href="https://web.uri.edu/engineering/about/ocean-engineering/">URI Department of Ocean Engineering</a>
   <br><br>
-  [URI Graduate School of Oceanography](https://web.uri.edu/gso/)
-  <br><br>
-  [Smart Ocean Systems Laboratory](https://soslab.wordpress.com/)
-  <br><br>
-  [Roman Laboratory](http://www.gso.uri.edu/cnr/www/)
+  <a href="https://web.uri.edu/gso/">URI Graduate School of Oceanography</a>
+  <br>
+  <a href="https://soslab.wordpress.com/">Smart Ocean Systems Laboratory</a>  
+  <br>
+  <a href="http://www.gso.uri.edu/cnr/www/">Roman Laboratory</a>
   <br><br>
   <a href="https://www.linkedin.com/in/kotachiliu/">View My LinkedIn Profile</a> 
   

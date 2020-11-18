@@ -4,7 +4,7 @@
 ### Education
 
 1. B.S. Chemical Engineering, UC San Diego, 2018
-  <br><br>
+   <br>
    B.S. Physiology & Neuroscience, UC San Diego, 2018
 2. M.Sc. Marine Biology, Scripps Institution of Oceanography, 2020
 3. Ph.D. Ocean Engineering, University of Rhode Island (in progress)
